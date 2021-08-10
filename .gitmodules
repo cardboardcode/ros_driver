@@ -1,0 +1,3 @@
+[submodule "ros_driver/deps/pcl"]
+	path = ros_driver/deps/pcl
+	url = https://github.com/PointCloudLibrary/pcl
