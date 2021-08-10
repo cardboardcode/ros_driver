@@ -28,6 +28,8 @@ cd $HOME
 cd ros_driver/ros_driver
 bash scripts/visualize.bash
 ```
+You should then see something like this:
+![](img/visualize.gif)
 
 # **Other Information**
 
