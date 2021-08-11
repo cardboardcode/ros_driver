@@ -6,6 +6,11 @@ This package is very much a **Work In Progress** with no assurance to quality st
 
 ### `Follow the instructions below at your own risk.`
 
+# Environment
+1. Ubuntu 18.04
+2. PCL 1.8.1
+3. ROS2 Eloquent
+
 # Setup :hammer:
 
 ```bash
